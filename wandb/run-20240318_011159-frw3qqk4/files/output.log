@@ -1,0 +1,6 @@
+
+{'eval_loss': 0.4266901910305023, 'eval_runtime': 93.8717, 'eval_samples_per_second': 10.653, 'eval_steps_per_second': 0.671, 'epoch': 1.0}
+{'eval_loss': 0.02888149954378605, 'eval_runtime': 47.4549, 'eval_samples_per_second': 21.073, 'eval_steps_per_second': 1.328, 'epoch': 2.0}
+{'eval_loss': 0.013523997738957405, 'eval_runtime': 13.2197, 'eval_samples_per_second': 75.644, 'eval_steps_per_second': 4.766, 'epoch': 3.0}
+{'train_runtime': 1304.6903, 'train_samples_per_second': 2.299, 'train_steps_per_second': 0.145, 'train_loss': 1.2248846790777943, 'epoch': 3.0}
+{'score': 0.696709156036377, 'start': 0, 'end': 4, 'answer': 'life'}
